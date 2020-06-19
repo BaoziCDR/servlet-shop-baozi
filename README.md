@@ -36,7 +36,7 @@ http://localhost:8080/B2CSystem/Login
 
 在`scr`文件夹下的`controller`包里，点开相应的类有说明
 
-#二、如何安装？
+# 二、如何安装？
 
 1.打开**Eclipse**，点击`File`->`import`
 2.选择General->Existing Projects into Workspace
