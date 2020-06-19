@@ -10,7 +10,7 @@
 
 ## 用户端地址：
 
-https://gitee.com/BaoziCDR/vue-shop-baozi
+https://github.com/BaoziCDR/vue-shop-baozi
 
 
 
